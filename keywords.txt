@@ -1,0 +1,59 @@
+###################################################
+# Syntax Coloring Map For (BMV36T001)
+###################################################
+
+###################################################
+# Datatypes (KEYWORD1)
+###################################################
+BMV36T001	KEYWORD1
+
+###################################################
+# Methods and Functions (KEYWORD2)
+###################################################
+begin	KEYWORD2
+getEWVer	KEYWORD2
+reset	KEYWORD2
+setPlayMode	KEYWORD2
+getPlayMode	KEYWORD2
+sanKey	KEYWORD2
+isKeyAction	KEYWORD2
+readKeyValue	KEYWORD2
+playStop	KEYWORD2
+playVoice	KEYWORD2
+playNext	KEYWORD2
+playPrevious	KEYWORD2
+playVoiceRepeat	KEYWORD2
+playWAV	KEYWORD2
+getVoiceSum	KEYWORD2
+isPlaying	KEYWORD2
+setVolume	KEYWORD2
+recordStop	KEYWORD2
+recordStart	KEYWORD2
+recordErase	KEYWORD2
+loopWAV	KEYWORD2
+
+###################################################
+# Constants (LITERAL1)
+###################################################
+BMV36T001_RECORD_DISABLE	LITERAL1					 
+BMV36T001_RECORD_ENABLE	LITERAL1 
+BMV36T001_MODE_RECORD	LITERAL1
+BMV36T001_MODE_SD	LITERAL1 
+BMV36T001_PLAY_ENABLE	LITERAL1
+BMV36T001_PLAY_DISABLE	LITERAL1
+BMV36T001_NO_KEY	LITERAL1
+BMV36T001_MIDDLE_KEY	LITERAL1
+BMV36T001_UP_KEY	LITERAL1
+BMV36T001_DOWN_KEY	LITERAL1
+BMV36T001_LEFT_KEY	LITERAL1	
+BMV36T001_RIGHT_KEY	LITERAL1	
+BMV36T001_MAX_VOLUME	LITERAL1
+BMV36T001_MIN_VOLUME	LITERAL1
+DEFAULT_VOLUME	LITERAL1		
+
+
+
+
+
+
+
